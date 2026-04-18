@@ -28,7 +28,8 @@ The core engine—specifically the custom prompt-chaining algorithms and multimo
 
 The following demonstration highlights the core ingestion loop, where a hand-drawn architectural sketch is processed and rendered into a live Next.js preview in real-time.
 
-*(Insert MVP Video Demo Link Here)*
+
+https://github.com/user-attachments/assets/fcea542c-9f44-409e-9ff7-6e34a458f2b2
 
 ---
 
